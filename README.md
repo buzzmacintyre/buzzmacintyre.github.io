@@ -17,9 +17,11 @@ Experience title
 - detial
 
 ## Projects
-**Film 1** (link to project site or GitHub repo)  
-- Description of tech used and what the project involved/accomplished
-- Accomplishment 
+**Film 1** [Film 1 Details](projects/film1) 
+- Description of what the project is
+
+** Film 2** [Film2 Details](projects/film2)
+- Description of what the project is 
 
 ## Education
 **Northeastern University** (Aug 2023 - Present)    
