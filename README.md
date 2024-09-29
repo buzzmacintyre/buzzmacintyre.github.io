@@ -4,12 +4,11 @@ documentation on themes etc: https://docs.github.com/en/pages/setting-up-a-githu
 # William (Buzz) MacIntyre
 Student at Northeastern University 
 
-## Summary
 I am ...
 
 ## Skills
 - skill
-- SKILL`
+- SKILL
 
 ## Experience
 **AN Experience** (?? - Jan ??)   
