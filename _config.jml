@@ -1,0 +1,15 @@
+title: Buzz MacIntyre Portfolio  # You can add your name here
+
+logo: 1.png # Use a relative path to logo image 
+
+description: Buzz's projects and experience
+
+show_downloads: false # Fix spelling
+
+remote_theme: pages-themes/cayman@v0.2.0
+
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
+- jekyll-seo-tag # Add SEO plugin
+
+email: buzz@macmynatt.com # Allow visitors to contact you
