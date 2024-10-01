@@ -10,7 +10,7 @@ I am a student at Northeastern University studying Media and Screen Studies with
 - Strengths: Open-minded, detail-oriented, highly motivated and dedicated
 
 ## Projects
-**"__Valentine__" a short film 1** [Film 1 Details](projects/film1) 
+**"_ _Valentine_ _" (short film)** [Film 1 Details](projects/film1) 
 - Description of what the project is
 
 **Film 2** [Film2 Details](projects/film2)
