@@ -1,8 +1,7 @@
 <!---
 documentation on themes etc: https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll
 -->
-# William (Buzz) MacIntyre
-Student at Northeastern University 
+I am a student at Northeastern University studying Media and Screen Studies with a minor in Theatre 
 
 I am ...
 
@@ -20,7 +19,7 @@ Experience title
 **Film 1** [Film 1 Details](projects/film1) 
 - Description of what the project is
 
-** Film 2** [Film2 Details](projects/film2)
+**Film 2** [Film2 Details](projects/film2)
 - Description of what the project is 
 
 ## Education
