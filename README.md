@@ -17,8 +17,7 @@ I am a student at Northeastern University studying Media and Screen Studies with
 **_Shot for Shot_ (a short film)** [link](projects/film2)
 - short film depicting a stressful student-film project between a group of enemies goes awry
 
-## Resume
-[link](assets/Resume.pdf)
+## [Resume](assets/Resume.pdf)
 
 ## Education
 **Northeastern University** (Aug 2023 - Present)    
