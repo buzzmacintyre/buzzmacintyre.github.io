@@ -10,20 +10,16 @@ I am a student at Northeastern University studying Media and Screen Studies with
 - Strengths: Open-minded, detail-oriented, highly motivated and dedicated
 
 ## Projects
-**_Valentine_ (a short film)** [Film 1 Details](projects/film1) 
-- Description of what the project is
+**_Valentine_ (a short film)** [link](projects/film1) 
+- A short film depicting an unlikely connection between two polar opposites on Valentine’s night
 
-**Film 2** [Film2 Details](projects/film2)
-- Description of what the project is 
 
-## Experience
-**AN Experience** (?? - Jan ??)   
-Experience title
-- detail.
-- detial
+**_Shot for Shot_ (a short film)** [link](projects/film2)
+- short film depicting a stressful student-film project between a group of enemies goes awry
+
+## Resume
+
 
 ## Education
 **Northeastern University** (Aug 2023 - Present)    
-Bachelor of Science in Film   
-- Activities: Varsity eSports Team (Valorant) 
-- Courses, activities, or other details
+Bachelor of Arts in Film   
