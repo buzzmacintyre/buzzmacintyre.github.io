@@ -18,7 +18,7 @@ I am a student at Northeastern University studying Media and Screen Studies with
 - short film depicting a stressful student-film project between a group of enemies goes awry
 
 ## Resume
-
+[link](assets/Resume.pdf)
 
 ## Education
 **Northeastern University** (Aug 2023 - Present)    
