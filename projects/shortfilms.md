@@ -1,5 +1,5 @@
 ---
-layout: project.html
+layout: project
 description: Short Films
 ---
 
