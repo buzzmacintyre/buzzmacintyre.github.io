@@ -14,7 +14,8 @@ Video production has been my main hobby throughout my life. I made my first vide
 ## Projects
 [**Short Films**](projects/shortfilms)
 - Narrative shorts I have made either by myself or in a group.
-[**VFX Showcase**]
+
+[**VFX Showcase**](projects/VFXshowcase)
 - Sample collection of videos showcasing editing and production skills.
 
 ## Resume
