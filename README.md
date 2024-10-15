@@ -28,6 +28,7 @@ Bachelor of Arts in Film
 ## Additional Activites 
 **Northeastern University Varsity Esports** (2024 - 2025)
 - Starting Valorant player, learned how to work and thrive within a team environment
+
 **Teen Action Group Intern and Volunteer at Planned Parenthood** (2020 - 2021)
 - Taught Sex Ed to middle and high school, participated in marches and protests for reproductive rights
 
