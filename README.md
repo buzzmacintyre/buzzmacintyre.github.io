@@ -21,7 +21,7 @@ Video production has been my main hobby throughout my life. I made my first vide
 - Sample collection of videos showcasing editing and production skills.
 
 ## Resume
-[Here is my resume as of October 2024](assets/Resume.pdf)
+[Here is my resume as of February 2025](assets/Resume.pdf)
 
 ## Education
 **Northeastern University** (Aug 2023 - Present)    
