@@ -8,6 +8,7 @@ Video production has been my main hobby throughout my life. I made my first vide
 ## Skills
 - Film: Adobe Creative Suite, editing, directing, cinematography, lighting, writing
 - Theater: Acting, set design, writing, directing
+    - [**Acting Showcase**](projects/ActingShowcase)
 - Professional: Excellent communication, leadership, project organization and planning
 - Strengths: Open-minded, detail-oriented, highly motivated and dedicated
 
