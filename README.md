@@ -25,7 +25,7 @@ Video production has been my main hobby throughout my life. I made my first vide
 
 ## Education
 **Northeastern University** (Aug 2023 - Present)    
-Bachelor of Arts in Film
+Bachelor of Arts in Media and Screen Studies
 
 ## Additional Activites 
 **Northeastern University Varsity Esports** (2024 - 2025)
